@@ -108,7 +108,8 @@ class Shell_Command:
                 cmd.append(p)
         com = " ".join(cmd)
 
-        s = subprocess.run(cmd,capture_output=True)
+        s = subprocess.run(com,capture_output=True,shell=True)
+        print(s.returncode)
         return (s.returncode,s.stdout,s.stderr,com)
 
 NODE_DISPLAY_NAME_MAPPINGS = {
