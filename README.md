@@ -3,7 +3,7 @@ A Simple Client for Jamworks Platform DAM Integration
 
 # Jamworks
 Jamworks is a platform with various applications serving B2B marketing execution tasks, such as production workflows, DAM and automations.
-This integration aimns to facilitate file transfers for comfyui environment, automation of tasks and even creation of complex workflows for task management.
+This integration aims to facilitate file transfers for comfyui environment, automation of tasks and even creation of complex workflows for task management.
 
 # Nodes
 ## Jamworks_Login
