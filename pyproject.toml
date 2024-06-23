@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_jamworks_client"
+description = "Nodes:Jamworks_Login, Jamworks_Download, Shell_Command.\nA Simple Client for Jamworks Platform DAM Integration"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/celsojr2013/comfyui_jamworks_client"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui_jamworks_client"
+Icon = ""
