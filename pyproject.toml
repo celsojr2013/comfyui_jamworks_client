@@ -9,6 +9,6 @@ Repository = "https://github.com/celsojr2013/comfyui_jamworks_client"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "cj"
 DisplayName = "comfyui_jamworks_client"
 Icon = ""
